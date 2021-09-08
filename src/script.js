@@ -108,10 +108,9 @@ scene.add(plane);
 const myText = new Text();
 
 myText.text = 'CHOCOLATEs';
-myText.font = '/fonts/itc-serif-gothic-lt-heavy.ttf';
+myText.font = '/itc-serif-gothic-lt-heavy.ttf';
 myText.fontSize = 3;
 myText.color = '#EF3024';
-// myText.color = '#2C1503';
 
 myText.position.set(-8.75,3,0.1);
 
